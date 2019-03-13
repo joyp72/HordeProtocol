@@ -1,0 +1,7 @@
+name: HordeProtocol
+author: joi_
+version: 0.0.1
+main: com.joi.hp.Main
+
+commands:
+  hp:
